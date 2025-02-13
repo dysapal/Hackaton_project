@@ -1,0 +1,6 @@
+## Bibliotecas necesarias:
+> import discord
+> import random
+> import os
+> from discord.ext import commands
+> import requests
