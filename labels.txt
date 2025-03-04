@@ -1,0 +1,4 @@
+0 Contaminacion
+1 Incendios
+2 Desperdicio_alimentos
+3 Desperdicio_agua
